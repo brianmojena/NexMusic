@@ -15,7 +15,7 @@ import org.jetbrains.compose.ui.tooling.preview.Preview
 
 import kotlinproject.composeapp.generated.resources.Res
 import kotlinproject.composeapp.generated.resources.compose_multiplatform
-
+//se puso bueno esto
 @Composable
 @Preview
 fun App() {
